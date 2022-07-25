@@ -1,0 +1,40 @@
+
+
+.altura-u-d{
+    padding: 100px 0px;
+
+}
+
+
+
+.logotipo{
+    width: 250px;
+    padding: 10px 0px;
+}
+
+.iconos-sociales{
+    width: 25px;
+    margin: 10px 5px;
+
+}
+
+.row{
+    margin: 15px;
+
+}
+
+.banner-video{
+    background-image: url("../imagenes/fondo-video.jpg");
+    position:relative;
+    text-align:center;
+    padding: 150px 0px;
+    margin:0px 50px;
+}
+
+.banner-video img{
+
+    width:100px;
+    height:100px;
+    position: relative;
+
+}
