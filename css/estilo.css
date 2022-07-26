@@ -1,7 +1,15 @@
 
+body{
+    font-family: 'Roboto', sans-serif;
 
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: bold;
+
+}
 .altura-u-d{
-    padding: 100px 0px;
+    padding: 60px 0px;
 
 }
 
@@ -12,6 +20,15 @@
     padding: 10px 0px;
 }
 
+.sps--abv{
+    background-color:transparent;
+    color:#000;
+
+}
+.sps--blw{
+    background-color:#3C455B;
+    color:#fff;
+}
 .iconos-sociales{
     width: 25px;
     margin: 10px 5px;
@@ -37,4 +54,20 @@
     height:100px;
     position: relative;
 
+}
+
+footer{
+    padding:10px 0px ;
+    text-align: center;
+
+
+}
+
+.logotipo-f{
+    background-color:#000000;
+    margin-bottom:20px;
+}
+
+footer p{
+    font-size: 20px;
 }
